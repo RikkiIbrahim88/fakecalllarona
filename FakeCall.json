@@ -27,6 +27,20 @@
 			"link_redirect": "https://"
 		}
 	],
+	"Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "COINS": 100,
+      "REWARD_COINS_FOR_VIDEO_ADS": 100,
+      "REWARD_COINS_FOR_SURVEY_ADS": 250,
+      "USE_COINS_FOR_TIMER": 50,
+      "TIMER_A": 10,
+      "TIMER_B": 30,
+      "TIMER_C": 60,
+      "TIMER_D": 300,
+      "VISIBLE_GONE_MOREAPP": "0"
+   },
 	"More": [
 		{
 			"id": 1,
