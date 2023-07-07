@@ -1,7 +1,7 @@
 {
    "Ads": [
       {
-         "select_main_ads": "ADMOB",
+         "select_main_ads": "",
          "select_backup_ads": "",
          "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
          "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
@@ -32,7 +32,7 @@
       "PROTECT_APP": false,
       "BASE_64_LICENSE_KEY": "",
       "COINS": 100,
-      "REWARD_COINS_FOR_VIDEO_ADS": 50,
+      "REWARD_COINS_FOR_VIDEO_ADS": 100,
       "REWARD_COINS_FOR_SURVEY_ADS": 250,
       "USE_COINS_FOR_TIMER": 50,
       "TIMER_A": 10,
