@@ -1,124 +1,112 @@
 {
-   "Ads": [
-      {
-         "select_main_ads": "ADMOB",
-         "select_backup_ads": "",
-         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-         "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
-         "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
-         "backup_ads_natives": "",
-         "backup_ads_banner": "",
-         "backup_ads_intertitial": "",
-         "backup_ads_rewards": "",
-         "open_ads_admob": "",
-         "open_ads_alien": "",
-         "switch_open_ads": "1",
-         "switch_banner_natives_ads": "1",
-         "interval_intertitial": 5,
-         "initialize_sdk": "",
-         "initialize_sdk_backup_ads": "",
-         "high_paying_keyword_1": "",
-         "high_paying_keyword_2": "",
-         "high_paying_keyword_3": "",
-         "high_paying_keyword_4": "",
-         "high_paying_keyword_5": "",
-         "status_app": "0",
-         "link_redirect": "https://"
-      }
-   ],
-   "More": [
-    {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    },
-    {
-      "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
-    },
-    {
-      "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
-    },
-    {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
-    }
-  ],
-  "Item": [
-    {
-      "id": 0,
-      "name": "La Llrona",
-      "image_url": "https://w0.peakpx.com/wallpaper/122/968/HD-wallpaper-the-curse-of-la-llorona-2019-the-final-scene.jpg",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona1.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    },
-    {
-      "id": 1,
-      "name": "La Llrona",
-      "image_url": "https://media.vanityfair.com/photos/5cb8f40c043df32e2f490980/master/w_2560%2Cc_limit/The-Curse-of-La-Llorona.jpg",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona2.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    },
-    {
-      "id": 2,
-      "name": "La Llrona",
-      "image_url": "https://pict.sindonews.net/dyn/600/pena/sindo-article/original/2021/08/03/Ananda_La%20Llorona_radiotimes.com.png",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona3.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    },
-    {
-      "id": 3,
-      "name": "La Llrona",
-      "image_url": "https://cdnx.kincir.com/insecure/rs:fill:764:400/aHR0cHM6Ly9raW5jaXJpbWFnZS5zMy1hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24vMjAxOS0wOC8xZGFhMDU5OThhYjk5N2QwYTM1MTcxODI5YzY3OGI3NzZlZDU3NDBkLmpwZw==",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona4.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    },
-    {
-      "id": 4,
-      "name": "La Llrona",
-      "image_url": "https://pict.sindonews.net/dyn/620/gensindo/content/2019/04/21/1/109/5-legenda-horor-seseram-kisah-la-llorona-images-qvl.jpg",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona5.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    },
-    {
-      "id": 5,
-      "name": "La Llrona",
-      "image_url": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/04/16/6079471f036c0-la-llorona-misteri-hantu-wanita-dari-meksiko_1265_711.jpg",
-      "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona6.mp4",
-      "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "APPLOVIN-D",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"open_ads_wortise": "",
+			"interval_intertitial": 5,
+			"initialize_sdk": "107355779",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "Ludo King",
+			"image": "file:///android_asset/ludo.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+		},
+		{
+			"id": 2,
+			"title": "Homescapes",
+			"image": "file:///android_asset/home.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+		},
+		{
+			"id": 3,
+			"title": "Minecraft",
+			"image": "file:///android_asset/mine.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+		},
+		{
+			"id": 4,
+			"title": "Sonic the Hedgehog™ Classic",
+			"image": "file:///android_asset/sonic.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+		},
+		{
+			"id": 5,
+			"title": "War Machines: Best Free Online War & Military Game",
+			"image": "file:///android_asset/machine.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+		},
+		{
+			"id": 6,
+			"title": "Tank vs Helicopter. Free War Game: Massive Warfare",
+			"image": "file:///android_asset/heli.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+		}
+	],
+	"Item": [
+		{
+			"id": 0,
+			"name": "La Llrona",
+			"image_url": "https://w0.peakpx.com/wallpaper/122/968/HD-wallpaper-the-curse-of-la-llorona-2019-the-final-scene.jpg",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona1.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		},
+		{
+			"id": 1,
+			"name": "La Llrona",
+			"image_url": "https://media.vanityfair.com/photos/5cb8f40c043df32e2f490980/master/w_2560%2Cc_limit/The-Curse-of-La-Llorona.jpg",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona2.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		},
+		{
+			"id": 2,
+			"name": "La Llrona",
+			"image_url": "https://pict.sindonews.net/dyn/600/pena/sindo-article/original/2021/08/03/Ananda_La%20Llorona_radiotimes.com.png",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona3.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		},
+		{
+			"id": 3,
+			"name": "La Llrona",
+			"image_url": "https://cdnx.kincir.com/insecure/rs:fill:764:400/aHR0cHM6Ly9raW5jaXJpbWFnZS5zMy1hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24vMjAxOS0wOC8xZGFhMDU5OThhYjk5N2QwYTM1MTcxODI5YzY3OGI3NzZlZDU3NDBkLmpwZw==",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona4.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		},
+		{
+			"id": 4,
+			"name": "La Llrona",
+			"image_url": "https://pict.sindonews.net/dyn/620/gensindo/content/2019/04/21/1/109/5-legenda-horor-seseram-kisah-la-llorona-images-qvl.jpg",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona5.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		},
+		{
+			"id": 5,
+			"name": "La Llrona",
+			"image_url": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/04/16/6079471f036c0-la-llorona-misteri-hantu-wanita-dari-meksiko_1265_711.jpg",
+			"video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona6.mp4",
+			"voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
+		}
+	]
 }
