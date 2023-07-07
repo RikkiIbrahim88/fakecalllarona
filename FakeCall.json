@@ -39,7 +39,7 @@
       "TIMER_B": 30,
       "TIMER_C": 60,
       "TIMER_D": 300,
-      "VISIBLE_GONE_MOREAPP": "0"
+      "VISIBLE_GONE_MOREAPP": "1"
    },
    "More": [
     {
@@ -95,7 +95,7 @@
     {
       "id": 0,
       "name": "La Llrona",
-      "image_url": "https://idreamedthis.com/wp-content/uploads/2022/10/Dream-of-La-Llorona.jpg",
+      "image_url": "https://w0.peakpx.com/wallpaper/122/968/HD-wallpaper-the-curse-of-la-llorona-2019-the-final-scene.jpg",
       "video_url": "https://raw.githubusercontent.com/RikkiIbrahim88/fakecalllarona/main/larona1.mp4",
       "voice_url": "https://github.com/RikkiIbrahim88/fakecalllarona/raw/main/7102748076435507995.mp3"
     },
